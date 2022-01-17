@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USERNAME": "user1",
+        "MONGO_PASSWORD": "lMHhVrT6wZ7w9U0T",
+        "JWT_KEY": "article-api"
+    }
+}
